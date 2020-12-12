@@ -1,2 +1,2 @@
-# Python_LetsUpgrade_Day1
-Assignment_Day1
+# Python_LetsUpgrade_Day2
+Assignment_Day2
